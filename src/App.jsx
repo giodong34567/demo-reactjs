@@ -6,6 +6,7 @@ import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import Products from "./components/Products";
 import TodoList from "./components/Todo-List";
+import WeatherApp from "./components/Weather";
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
           <Route path="/products" element={<Products />} />
         </Routes>
       </div> */}
-      <TodoList/>
+      {/* <TodoList/> */}
+      <WeatherApp/>
     </div>
   );
 }
