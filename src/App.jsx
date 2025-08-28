@@ -5,11 +5,12 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import Products from "./components/Products";
+import TodoList from "./components/Todo-List";
 
 function App() {
   return (
     <div>
-      <Header />
+      {/* <Header />
 
       <div className="p-6">
         <Routes>
@@ -18,7 +19,8 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/products" element={<Products />} />
         </Routes>
-      </div>
+      </div> */}
+      <TodoList/>
     </div>
   );
 }
