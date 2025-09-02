@@ -10,8 +10,7 @@ import TodoList from "./components/Todo-List";
 function App() {
   return (
     <div>
-      {/* <Header />
-
+      <Header />
       <div className="p-6">
         <Routes>
           <Route path="/about" element={<About />} />
@@ -19,8 +18,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/products" element={<Products />} />
         </Routes>
-      </div> */}
-      <TodoList/>
+      </div>
     </div>
   );
 }
