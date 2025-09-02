@@ -57,11 +57,11 @@
       "id": "8"
     },
     {
-      "id": "9",
       "name": "Odoo",
       "level": "Advanced",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codementor.io%2F%40prashantarvind%2Fodoo-erp-system-what-it-is-how-it-helps-and-why-you-should-consider-it-2jw7z2m0qu&psig=AOvVaw1sMZxeIEsmV9ZSEaUrSbTT&ust=1756138756967000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDLt-fso48DFQAAAAAdAAAAABAE",
-      "description": "Odoo là một nền tảng hoạch định nguồn lực doanh nghiệp (ERP) mã nguồn mở"
+      "description": "Odoo là một nền tảng hoạch định nguồn lực doanh nghiệp (ERP) mã nguồn mở",
+      "id": "9"
     }
   ]
 }
