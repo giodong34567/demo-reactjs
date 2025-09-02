@@ -5,59 +5,59 @@
       "level": "Advanced",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
       "description": "Ngôn ngữ đánh dấu để xây dựng cấu trúc trang web.",
-      "id": "c98f"
+      "id": "1"
     },
     {
       "name": "CSS",
       "level": "Advanced",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
       "description": "Ngôn ngữ định kiểu để tạo giao diện đẹp mắt.",
-      "id": "ca08"
+      "id": "2"
     },
     {
       "name": "React JS",
       "level": "Intermediate",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
       "description": "Thư viện JavaScript để xây dựng giao diện người dùng.",
-      "id": "7766"
+      "id": "3"
     },
     {
       "name": "Node.js",
       "level": "Intermediate",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
       "description": "Môi trường chạy JavaScript phía server.",
-      "id": "2de9"
+      "id": "4"
     },
     {
       "name": "Django",
       "level": "Beginner",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
       "description": "Framework Python mạnh mẽ cho phát triển web.",
-      "id": "5852"
+      "id": "5"
     },
     {
       "name": "Spring Boot",
       "level": "Intermediate",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
       "description": "Framework Java phổ biến để xây dựng ứng dụng web và microservices.",
-      "id": "67fb"
+      "id": "6"
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
       "description": "Hệ quản trị cơ sở dữ liệu quan hệ phổ biến.",
-      "id": "e355"
+      "id": "7"
     },
     {
       "name": "MongoDB",
       "level": "Intermediate",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
       "description": "Cơ sở dữ liệu NoSQL dạng document.",
-      "id": "b9ab"
+      "id": "8"
     },
     {
-      "id": "12",
+      "id": "9",
       "name": "Odoo",
       "level": "Advanced",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codementor.io%2F%40prashantarvind%2Fodoo-erp-system-what-it-is-how-it-helps-and-why-you-should-consider-it-2jw7z2m0qu&psig=AOvVaw1sMZxeIEsmV9ZSEaUrSbTT&ust=1756138756967000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDLt-fso48DFQAAAAAdAAAAABAE",

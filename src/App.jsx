@@ -1,11 +1,10 @@
 import { Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
-// Import các components khác
 import About from "./components/About";
 import Skills from "./components/Skills";
+import SkillDetail from "./components/Skills/SkillDetail";
 import Contact from "./components/Contact";
 import Products from "./components/Products";
-import TodoList from "./components/Todo-List";
 
 function App() {
   return (
@@ -14,7 +13,10 @@ function App() {
       <div className="p-6">
         <Routes>
           <Route path="/about" element={<About />} />
-          <Route path="/skills" element={<Skills />} />
+          <Route path="/skills">
+            <Route index element={<Skills />} />
+            <Route path=":id" element={<SkillDetail />} />
+          </Route>
           <Route path="/contact" element={<Contact />} />
           <Route path="/products" element={<Products />} />
         </Routes>
